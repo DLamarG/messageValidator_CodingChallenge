@@ -8,3 +8,11 @@ function isAValidMessage(message){
     if(chars.join('')===nums.join('')){return true}
     if(chars.join('')!=nums.join('')){return false}
   }
+
+
+
+
+console.log(isAValidMessage("3hey5hello2hi")) // True
+console.log(isAValidMessage("3hey5hello2hi"))
+console.log(isAValidMessage("3hey5hello2hi"))
+console.log(isAValidMessage("3hey5hello2hi"))
