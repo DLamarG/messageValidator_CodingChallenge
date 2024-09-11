@@ -13,6 +13,6 @@ function isAValidMessage(message){
 
 
 console.log(isAValidMessage("3hey5hello2hi")) // True
-console.log(isAValidMessage("3hey5hello2hi"))
-console.log(isAValidMessage("3hey5hello2hi"))
-console.log(isAValidMessage("3hey5hello2hi"))
+console.log(isAValidMessage("3hey5hello2hi5")) // False
+console.log(isAValidMessage("1a2bb3ccc4dddd5eeeee")) // True
+console.log(isAValidMessage("code4hello5"))// False
